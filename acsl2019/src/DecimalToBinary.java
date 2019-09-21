@@ -2,6 +2,7 @@ import java.util.Scanner;
 public class DecimalToBinary {
     public static void main(String[] args) {
     Scanner s = new Scanner(System.in);
+    System.out.println("Enter the decimal to get converted to binary");
     int a = s.nextInt();
     if(a>128){
         System.out.print(1);
