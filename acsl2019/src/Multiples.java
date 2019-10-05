@@ -1,8 +1,5 @@
-public class Multiples {
-}
-
-
-public class ProjectEuler_MultiplesOf3And5 {
+public class Multiples
+{
     public static void main(String[] args) {
         Scanner s= new Scanner(System.in);
         System.out.println("Type Max Value: ");
