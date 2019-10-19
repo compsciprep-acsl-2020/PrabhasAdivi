@@ -1,5 +1,5 @@
 
-public class Fibonnaciweew {
+public class Fibonnaci {
 
     public static void main(String[] args) {
         int sum = 2;// holds sum of total even numbers
